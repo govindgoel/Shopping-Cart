@@ -8,6 +8,7 @@ To get started:
 3. Activate the virtual env. using: source (-folder name-)/bin/activate <br>
 4. Install Django and required dependencies from requirements.txt <br>
 5. To start our (folder-name) project use -  django-admin startproject (folder-name) [Here it is ecommerce] <br>
-6. To run our development server run the following command: python manage.py runserver <br>
+6. Navigate to that folder.
+7. Then to run our development server run the following command: python manage.py runserver <br>
 
 Refer blog:- https://scproject04.blogspot.com <br>
