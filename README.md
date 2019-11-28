@@ -1,7 +1,7 @@
 # Shopping-Cart
 <a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangomade124x25.gif" border="0" alt="Made with Django." title="Made with Django." /></a>
 
-A Shopping-Cart Developed using Python 3  and Django 2 framework.
+A Shopping-Cart Developing using Python 3  and Django 2 framework.
 To get started:
 1. Clone the repo: https://github.com/govindgoel/Shopping-Cart.git<br>
 2. Create a virtual env. using:  virtualenv -p /usr/bin/python3 (-folder-name-)[Here the name is onlineshop]<br>
